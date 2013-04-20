@@ -7,10 +7,9 @@ win32
 
 暂时没有
 
-win 64
-运行平台
-win 7 x 64 
-node v0.10.x 能够运行的
+##win 64运行平台##
+###node v0.10.x 
+sqlite3,jsdom
 
-sqlite3
-jsdom
+###node v0.8.x###
+jsdom, sqlite3 , socket.io
